@@ -8,7 +8,6 @@ Hi there 👋 it's Rah
 - 💻 Security Focused ICT/ AI Research Engineer (agentic AI, web3 infrastructure, blockchain) 
 - 😊  Open-source enthusiast
 - 📫  blogging [at] nerissa.io 
-
 &nbsp;
 
 🌱 **What I'm up to**
