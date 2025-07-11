@@ -4,7 +4,7 @@ Hi there 👋 it's Rah
 
 📃 **About me**
 
-- 👩🏽‍💻 Human-Centric Technologist
+- 👩🏽‍💻 Human-centric Technologist
 - 💻 Security Focused ICT/ AI Research Engineer (agentic AI, web3 infrastructure, blockchain) 
 - 😊  Open-source enthusiast
 - 📫  blogging [at] nerissa.io 
