@@ -20,4 +20,4 @@ Hi there 👋 it's Rah
 - DeEd project - on hold (decentralized education solution w/credential verification
    - Webmazer Project
 
-👩🏽‍💻 Support the maintenance of my open source work by buying me a coffee for now, and soon sponsor me here  🤗# README.md
+👩🏽‍💻 Support the maintenance of my open source work by buying me a coffee for now, and soon sponsor me here  🤗
