@@ -5,7 +5,7 @@ Hi there 👋 it's Rah
 📃 **About me**
 
 - 👩🏽‍💻 Humorist & Human-centric 
-- 💻 Security Focused ICT/ AI Research Engineer (agentic AI, web3 infrastructure, blockchain) 
+- 💻 Security Focused Indie ICT/AI Researcher (agentic AI, web3 infrastructure, blockchain) 
 - 😊  Open-source enthusiast
 - 📫  blogging [at] nerissa.io 
 &nbsp;
@@ -13,7 +13,7 @@ Hi there 👋 it's Rah
 🌱 **What I'm up to**
 - Doing hard things consistently, learning & unlearning
 - Dancing it out, planks and push ups
-- Applying a human-centric approach to AI research
+- Applying a human-centric approach to AI security
   - [neuzida](https://neuzida.io)
 - Managing projects/iterations 
 - Wisdom tooling knowledge work 
