@@ -1,4 +1,4 @@
-Hi there 👋 it's Rah 
+Hi there 👋 
 
 ***note*** - I'm locked out of [pqcsig](https://github.com/PQCSig#-hi-there-) 
 
