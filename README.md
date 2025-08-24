@@ -5,7 +5,7 @@ Hi there 👋
 📃 **About me**
 
 - 👩🏽‍💻 Humorist & Human-centric 
-- 💻 Security Focused Indie ICT/AI Researcher (agentic AI, web3 infrastructure, blockchain) 
+- 💻 Security Focused Indie ICT/AI Researcher (agentic AI, web3 infra, blockchain, quantum) 
 - 😊  Open-source enthusiast
 - 📫  blogging [at] nerissa.io 
 &nbsp;
@@ -13,10 +13,10 @@ Hi there 👋
 🌱 **What I'm up to**
 - Doing hard things consistently, learning & unlearning
 - Dancing it out, planks and push ups
-- Applying a human-centric approach to AI security
+- Applying a human-centric approach in tech
   - [neuzida](https://neuzida.io)
 - Managing projects/iterations 
-- Wisdom tooling knowledge work 
+- Wisdom-tooling knowledge work 
 - DeEd project - on hold (decentralized education solution w/credential verification
    - Webmazer Project
 
