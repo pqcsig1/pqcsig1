@@ -5,7 +5,7 @@ Hi there 👋
 📃 **About me**
 
 - 👩🏽‍💻 Humorist & Human-centric 
-- 💻 Security Focused Indie ICT/AI Researcher (agentic AI, web3 infra, blockchain, quantum) 
+- 💻 Security Focused ICT/AI Research Engineer (agentic AI, web3 infra, blockchain, quantum) 
 - 😊  Open-source enthusiast
 - 📫  blogging [at] nerissa.io 
 &nbsp;
