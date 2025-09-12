@@ -5,7 +5,7 @@ Hi there 👋
 📃 **About me**
 
 - 👩🏽‍💻 Humorist & Human-centric 
-- 💻 Security Focused ICT/AI Research Engineer (agentic AI, web3 infra, blockchain, quantum) 
+- 💻 Security Focused ICT/AI Research Engineer
 - 😊  Open-source enthusiast
 - 📫  blogging [at] nerissa.io 
 &nbsp;
@@ -13,7 +13,7 @@ Hi there 👋
 🌱 **What I'm up to**
 - Doing hard things consistently, learning & unlearning
 - Dancing it out, planks and push ups
-- Applying a human-centric approach in tech
+- Applying a human-centric approach and design 
   - [neuzida](https://neuzida.io)
 - Managing projects/iterations 
 - Wisdom-tooling knowledge work 
