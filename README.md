@@ -14,7 +14,7 @@ Hi there 👋
 - Doing hard things consistently, learning & unlearning
 - Dancing it out, planks and push ups
 - Applying a human-centric approach and design 
-  - [neuzida](https://neuzida.io)
+  - [neuzida](https://neuzida.ai)
 - Managing projects/iterations 
 - Wisdom-tooling knowledge work 
 - DeEd project - on hold (decentralized education solution w/credential verification
