@@ -13,7 +13,7 @@ Hi there 👋
 🌱 **What I'm up to**
 - Applying a human-centric approach and design 
   - [neuzida](https://neuzida.ai)
-- Building and iterating products/services  
+- Building and iterating tools/products/services  
   - [neuzida](https://neuzida.ai)
   - [sunrah.io](https://surah.io)
 - Wisdom-tooling knowledge work 
