@@ -6,16 +6,16 @@ Hi there 👋
 
 - 👩🏽‍💻 Humorist & Human-centric 
 - 💻 Security Focused ICT/AI Research Engineer
-- 😊  Open-source enthusiast
-- 📫  blogging [at] nerissa.io 
+- 😊 Open-source enthusiast
+- 📫 Blogging [at] nerissa.io 
 &nbsp;
 
 🌱 **What I'm up to**
-- Doing hard things consistently, learning & unlearning
-- Dancing it out, planks and push ups
 - Applying a human-centric approach and design 
   - [neuzida](https://neuzida.ai)
-- Managing projects/iterations 
+- Building and iterating products/services  
+  - [neuzida](https://neuzida.ai)
+  - [sunrah.io](https://surah.io)
 - Wisdom-tooling knowledge work 
 - DeEd project - on hold (decentralized education solution w/credential verification
    - Webmazer Project
