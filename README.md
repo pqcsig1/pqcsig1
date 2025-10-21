@@ -1,6 +1,6 @@
 Hi there 👋 
 
-***note*** - original repo w/block chain etc. [pqcsig](https://github.com/PQCSig#-hi-there-) 
+***note*** - original repo w/block chain etc. [pqcsig](https://github.com/PQCSig) 
 
 📃 **About me**
 
