@@ -1,6 +1,6 @@
 Hi there 👋 
 
-***note*** - original repo w/block chain etc. [pqcsig](https://github.com/PQCSig) 
+***note*** - Previously locked out of original repo with blockchain projects. 👉 [pqcsig](https://github.com/PQCSig) 
 
 📃 **About me**
 
@@ -15,7 +15,7 @@ Hi there 👋
   - [neuzida](https://neuzida.ai)
 - Building and iterating tools/products/services  
   - [neuzida](https://neuzida.ai)
-  - [sunrah.io](https://surah.io)
+  - [sunrah.io](https://sunrah.io)
 - Wisdom-tooling knowledge work 
 - DeEd project - on hold (decentralized education solution w/credential verification
    - Webmazer Project
