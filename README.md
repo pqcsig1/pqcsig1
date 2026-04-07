@@ -1,6 +1,6 @@
 Hi there 👋 
 
-***note*** - previously locked out of original repo with blockchain projects. 👉 [pqcsig](https://github.com/PQCSig) 
+***note*** - See original repo with blockchain projects. 👉 [pqcsig](https://github.com/PQCSig) 
 
 📃 **About me**
 
