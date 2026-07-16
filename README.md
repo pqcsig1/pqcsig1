@@ -4,19 +4,18 @@ Hi there 👋
 
 📃 **About me**
 
-- 👩🏽‍💻 Humorist & Human-centric 
-- 💻 Security Focused ICT/AI Research Engineer
+- 👩🏽‍💻 Wisdom-tooling™ - The skill for going beyond knowledge work
+- 💻 Security Focused Media Research Engineer
 - 😊 Open-source enthusiast
 - 📫 Blogging [at] nerissa.io 
 &nbsp;
 
 🌱 **What I'm up to**
-- Applying a human-centric approach and design 
+- Working on the infrastructure behind trust 
   - [neuzida](https://neuzida.ai)
 - Building and iterating tools/products/services  
   - [neuzida](https://neuzida.ai)
   - [sunrah.io](https://sunrah.io)
-- Wisdom-tooling knowledge work 
 - DeEd project - on hold (decentralized education solution w/credential verification
    - Webmazer Project
 
