@@ -11,7 +11,7 @@ Hi there 👋
 &nbsp;
 
 🌱 **What I'm up to**
-- Working on the infrastructure behind trust 
+- Working on the infrastructure behind wisdom work
   - [neuzida](https://neuzida.ai)
 - Building and iterating tools/products/services  
   - [neuzida](https://neuzida.ai)
