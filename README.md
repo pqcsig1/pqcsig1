@@ -4,7 +4,7 @@ Hi there 👋
 
 📃 **About me**
 
-- 👩🏽‍💻 Wisdom-tooling™ - The skill for going beyond knowledge work
+- 👩🏽‍💻 Wisdom-tooling© - The skill for going beyond knowledge work
 - 💻 Security Focused Media Research Engineer
 - 😊 Open-source enthusiast
 - 📫 Blogging [at] nerissa.io 
