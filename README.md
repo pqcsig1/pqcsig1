@@ -7,7 +7,7 @@ Hi there 👋
 - 👩🏽‍💻 Wisdom-tooling© AI-powered work
 - 💻 Security Focused Research Engineer
 - 😊 Open-source enthusiast
-- 📫 Blogging [at] nerissa.io 
+- 📫 Blogging [at] nerissa.ai 
 &nbsp;
 
 🌱 **What I'm up to**
