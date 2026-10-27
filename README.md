@@ -11,9 +11,9 @@ Hi there 👋
 &nbsp;
 
 🌱 **What I'm up to**
-- Working on the infrastructure behind wisdom work
+- Building the infrastructure behind wisdom work
   - [neuzida](https://neuzida.ai)
-- Building and iterating tools/products/services  
+- Building the agentic stack and iterating tools/products/services  
   - [neuzida](https://neuzida.ai)
   - [sunrah.io](https://sunrah.io)
 - DeEd project - on hold (decentralized education solution w/credential verification
