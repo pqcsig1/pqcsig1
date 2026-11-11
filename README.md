@@ -6,16 +6,14 @@ Hi there 👋
 
 - 👩🏽‍💻 Wisdom-tooling© AI-powered work
 - 💻 Security Focused Research Engineer
+  
 - 😊 Open-source enthusiast
 - 📫 Blogging [at] nerissa.ai 
 &nbsp;
 
 🌱 **What I'm up to**
 - Building the infrastructure behind wisdom work
-  - [neuzida](https://neuzida.ai)
 - Building the agentic stack and iterating tools/products/services  
-  - [neuzida](https://neuzida.ai)
-  - [sunrah.io](https://sunrah.io)
 - DeEd project - on hold (decentralized education solution w/credential verification
    - Webmazer Project
 
