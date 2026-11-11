@@ -12,9 +12,6 @@ Hi there 👋
 &nbsp;
 
 🌱 **What I'm up to**
-- Building the infrastructure behind wisdom work
-- Building the agentic stack and iterating tools/products/services  
+- Building wisdom-tooling, the agentic stack, and iterating tools/products/services  
 - DeEd project - on hold (decentralized education solution w/credential verification
    - Webmazer Project
-
-👩🏽‍💻 Support the maintenance of my open source work by buying me a coffee for now, and soon sponsor me here  🤗
