@@ -4,7 +4,7 @@ Hi there 👋
 
 📃 **About me**
 
-- 👩🏽‍💻 Wisdom-tooling© AI-powered work
+- 👩🏽‍💻 Wisdom-tooling© AI-powered work 
 - 💻 Security Focused Research Engineer
   
 - 😊 Open-source enthusiast
@@ -12,6 +12,7 @@ Hi there 👋
 &nbsp;
 
 🌱 **What I'm up to**
-- Building wisdom-tooling, the agentic stack, and iterating tools/products/services  
+- Building the post knowledge work era, i.e. wisdom-tooling
+- Building the agentic stack, quantum security, and iterating tools/products/services 
 - DeEd project - on hold (decentralized education solution w/credential verification
    - Webmazer Project
